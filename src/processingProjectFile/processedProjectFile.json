@@ -1,0 +1,194 @@
+[
+ {
+  "time": 0,
+  "kanji": "",
+  "prev": [],
+  "next": [],
+  "svgs": [
+   ""
+  ]
+ },
+ {
+  "time": 1,
+  "kanji": "一",
+  "prev": [],
+  "next": [
+   0
+  ],
+  "svgs": [
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"14,99 186,99 186,103 14,103 \" />\n<polygon points=\"186,99 162,101 174,89 \" />\n</g>\n</svg>\n"
+  ]
+ },
+ {
+  "time": 2,
+  "kanji": "二",
+  "prev": [
+   1
+  ],
+  "next": [
+   0,
+   1
+  ],
+  "svgs": [
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"32,46 168,46 168,50 32,50 \" />\n<polygon points=\"168,46 144,48 156,36 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"14,152 186,152 186,156 14,156 \" />\n<polygon points=\"186,152 162,154 174,142 \" />\n</g>\n</svg>\n"
+  ]
+ },
+ {
+  "time": 3,
+  "kanji": "三",
+  "prev": [
+   1,
+   2
+  ],
+  "next": [
+   0,
+   1,
+   2
+  ],
+  "svgs": [
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"25,37 175,37 175,41 25,41 \" />\n<polygon points=\"175,37 151,39 163,27 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"42,97 158,97 158,101 42,101 \" />\n<polygon points=\"158,97 134,99 146,87 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"14,161 186,161 186,165 14,165 \" />\n<polygon points=\"186,161 162,163 174,151 \" />\n</g>\n</svg>\n"
+  ]
+ },
+ {
+  "time": 4,
+  "kanji": "奏",
+  "prev": [
+   0,
+   1,
+   2
+  ],
+  "next": [
+   0,
+   1,
+   2
+  ],
+  "svgs": [
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"27,35 173,35 173,39 27,39 \" />\n<polygon points=\"173,35 149,37 161,25 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"34,61 166,61 166,65 34,65 \" />\n<polygon points=\"166,61 142,63 154,51 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"15,87 185,87 185,91 15,91 \" />\n<polygon points=\"185,87 161,89 173,77 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"105.8,14.5 103.2,32.2 99,49 93.4,64.7 86.3,79.3 77.7,92.8 67.7,105.2 56.2,116.4 43.3,126.5 29,135.3 13.3,142.8 12.6,141.1 27,132 40.1,122.2 51.7,111.7 61.9,100.3 70.7,88.1 78,75 84,61 88.7,46.1 92,30.2 93.9,13.4 \" />\n<polygon points=\"93.8,14.4 105.8,14.5 94.1,11.2 \" />\n<polygon points=\"105.8,14.5 108.6,16.7 103.4,19.3 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"114.1,63.6 118.7,71.9 123.5,79.7 128.8,87.1 134.6,94.1 140.9,100.7 147.9,107 155.4,112.8 163.6,118.2 172.4,123.3 181.9,128 176,139.9 166.2,134.2 157,128 148.6,121.5 141,114.5 134.1,107.1 128,99.3 122.8,91.1 118.3,82.5 114.8,73.6 112.4,64.2 \" />\n<polygon points=\"176,139.9 181.9,128 187.3,130.7 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"69,113 133,113 133,117 69,117 \" />\n<polygon points=\"133,113 109,115 121,103 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"45,137 157,137 157,141 45,141 \" />\n<polygon points=\"157,137 133,139 145,127 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"106.9,114.5 106.7,126.6 104.9,137.7 101.5,147.8 96.6,156.8 90.1,164.6 82.1,171.1 72.8,176.4 62.2,180.5 50.3,183.3 37.1,184.8 36.8,183.1 49.4,179.6 60.3,175.5 69.7,170.6 77.5,165.1 83.8,158.8 88.7,151.8 92.2,144.1 94.4,135.5 95.3,125.9 95,115.4 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"96.1,146.3 103.3,147.3 110.3,148.7 116.9,150.7 123.4,153 129.5,155.8 135.4,158.9 141.1,162.3 146.4,166.1 151.5,170.2 156.3,174.7 147.5,182.8 143.7,178.4 139.5,174.3 135.1,170.4 130.4,166.7 125.4,163.2 120,159.9 114.4,156.7 108.5,153.8 102.2,150.9 95.7,148.1 \" />\n<polygon points=\"156.3,174.7 157.9,179 156,183.2 151.7,184.7 147.5,182.8 \" />\n</g>\n</svg>\n"
+  ]
+ },
+ {
+  "time": 5,
+  "kanji": "実",
+  "prev": [
+   4,
+   5,
+   6
+  ],
+  "next": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "svgs": [
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"106,14.3 106,40.4 94,40.4 94,12.3 \" />\n<polygon points=\"106,14.3 109,16.3 104,19.3 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"30.9,27.2 31.6,32.9 32.1,38.2 32.2,43.2 31.9,47.9 31.1,52.3 30,56.4 28.4,60.2 26.3,63.7 23.7,66.8 20.6,69.5 14.4,59.3 16.4,58.3 18.3,56.9 20.2,55 21.9,52.6 23.6,49.7 25,46.3 26.3,42.3 27.5,37.8 28.5,32.8 29.1,27.3 \" />\n<polygon points=\"20.6,69.5 16.1,70.2 12.4,67.5 11.7,63 14.4,59.3 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"30,36.4 177,36.4 177,40.4 30,40.4 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"182.1,41.6 180.4,43.5 178.5,45.5 176.5,47.6 174.3,49.8 172,52.1 169.5,54.5 166.8,56.9 163.9,59.5 160.7,62 157.6,64.9 156.3,63.7 158.6,60.3 160.6,56.7 162.5,53.4 164.3,50.3 165.9,47.4 167.4,44.6 168.8,42 169.9,39.6 171,37.3 171.8,35.2 \" />\n<polygon points=\"171,36.4 177,31.4 188,40.4 183,43.4 171,48.4 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"38,73 162,73 162,77 38,77 \" />\n<polygon points=\"162,73 138,75 150,63 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"39,99 161,99 161,103 39,103 \" />\n<polygon points=\"161,99 137,101 149,89 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"18,124 182,124 182,128 18,128 \" />\n<polygon points=\"182,124 158,126 170,114 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"106,52 106,101 94,101 94,50 \" />\n<polygon points=\"106,52 109,54 104,57 \" />\n<polygon points=\"94,101 96.4,104.6 100,107 103.6,104.6 106,101 \" />\n<polygon points=\"106,101 104.8,114.3 101.8,126.7 97.1,138.1 90.7,148.6 82.5,157.9 72.8,166.1 61.5,173.2 48.6,179.2 34.1,184.1 18.2,187.8 17.7,186.1 32.9,180.5 46.4,174.3 58.1,167.6 68.1,160.1 76.4,152 83,143.3 88,133.8 91.5,123.7 93.5,112.7 94,101 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"104.2,126.5 109,132.8 114.1,138.7 119.7,144.2 125.7,149.4 132.4,154.2 139.6,158.6 147.4,162.7 155.9,166.4 165.1,169.7 174.9,172.6 171,185.3 160.7,181.4 151.1,177.1 142.3,172.4 134.1,167.3 126.8,161.7 120.2,155.6 114.4,149.2 109.4,142.3 105.5,135 102.6,127.2 \" />\n<polygon points=\"171,185.3 174.9,172.6 182.6,175 \" />\n</g>\n</svg>\n"
+  ]
+ },
+ {
+  "time": 6,
+  "kanji": "宴",
+  "prev": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "next": [
+   9,
+   10,
+   11,
+   12
+  ],
+  "svgs": [
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"106,14.5 106,41.1 94,41.1 94,12.5 \" />\n<polygon points=\"106,14.5 109,16.5 104,19.5 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"30.9,27.7 31.6,33.4 32.1,38.8 32.2,43.9 31.9,48.7 31.2,53.2 30,57.4 28.4,61.2 26.3,64.8 23.8,67.9 20.7,70.6 14.3,60.4 16.3,59.4 18.3,58 20.1,56.1 21.9,53.6 23.5,50.7 25,47.1 26.3,43.1 27.4,38.5 28.5,33.4 29.1,27.7 \" />\n<polygon points=\"20.7,70.6 16.1,71.3 12.4,68.7 11.7,64.2 14.3,60.4 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"30,37.1 177,37.1 177,41.1 30,41.1 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"182.1,42.2 180.4,44.2 178.5,46.2 176.5,48.4 174.4,50.6 172,53 169.5,55.4 166.8,57.9 163.9,60.5 160.7,63.1 157.6,66.1 156.3,64.9 158.6,61.4 160.6,57.8 162.4,54.4 164.2,51.3 165.9,48.3 167.4,45.5 168.7,42.8 169.9,40.4 171,38.1 171.8,36 \" />\n<polygon points=\"171,37.1 177,32.1 188,41.1 183,44.1 171,49.1 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"65.5,56.5 65.5,117.4 53.5,123.4 53.5,50.5 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"59.5,56.5 140.5,56.5 140.5,60.5 59.5,60.5 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"146.5,58.5 146.5,111.4 134.5,117.4 134.5,58.5 \" />\n<polygon points=\"134.5,56.5 140.5,51.5 151.5,60.5 146.5,64.5 134.5,58.5 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"59.5,78.3 140.5,78.3 140.5,82.3 59.5,82.3 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"59.5,101.4 140.5,101.4 140.5,105.4 59.5,105.4 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"92.6,114.1 89.1,119.6 85.6,125.1 81.8,130.5 78,135.7 74,140.8 69.9,145.8 65.6,150.7 61.2,155.4 56.7,160.1 52.1,164.6 43.8,155.8 48.2,151.6 52.5,147.2 56.7,142.7 60.7,138 64.6,133.3 68.4,128.4 72.1,123.5 75.6,118.4 79,113.2 82.3,107.9 \" />\n<polygon points=\"81.8,108.7 92.6,114.1 82.8,107 \" />\n<polygon points=\"92.6,114.1 94.1,117.3 88.3,117.3 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"57.1,151.1 69.7,152.2 82,153.7 94,155.5 105.7,157.5 117,159.8 128.1,162.3 138.9,165.1 149.3,168 159.5,171.1 169.3,174.4 165,185.6 155.6,181.8 146,178.2 136,174.7 125.6,171.3 115,168.1 104,164.9 92.6,161.9 81,158.9 69.1,155.9 56.8,152.9 \" />\n<polygon points=\"169.3,174.4 172.6,177.6 172.8,182.2 169.6,185.4 165,185.6 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"141.6,132.2 136.5,142.5 129.7,151.8 121.4,159.9 111.4,166.9 100,172.8 87.2,177.6 72.8,181.4 57,184.1 39.8,185.7 21,186.2 20.9,184.4 39.4,181.9 56.1,178.8 71.2,175 84.6,170.5 96.4,165.2 106.4,159.1 114.7,152.4 121.4,145 126.6,136.9 130.3,128.1 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"15,128.2 185,128.2 185,132.2 15,132.2 \" />\n<polygon points=\"185,128.2 161,130.2 173,118.2 \" />\n</g>\n</svg>\n"
+  ]
+ },
+ {
+  "time": 7,
+  "kanji": "委",
+  "prev": [
+   5,
+   6,
+   7,
+   8
+  ],
+  "next": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "svgs": [
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"147.4,25.2 138.7,26.9 129.4,28.4 119.5,29.9 109.1,31.2 98.1,32.5 86.4,33.6 74.2,34.6 61.4,35.4 48,35.9 34,36.2 33.9,34.4 47.7,32.2 60.9,30 73.5,28 85.5,26.1 96.9,24.1 107.6,22.1 117.8,20 127.3,17.9 136.3,15.7 144.6,13.5 \" />\n<polygon points=\"143.6,13.8 147.4,25.2 155.2,23.3 \" />\n<polygon points=\"155.2,23.3 155.5,26.3 148.3,22.9 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"21,52.5 181,52.5 181,56.5 21,56.5 \" />\n<polygon points=\"181,52.5 157,54.5 169,42.5 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"106,27.2 106,100 94,106 94,27.2 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"97.4,58.5 91.2,64.6 84.5,70.4 77.5,75.9 70,81.1 62.2,85.8 54,90.3 45.4,94.3 36.5,98 27.1,101.1 17.3,103.8 16.6,102.1 25.6,97.6 34.2,93.1 42.5,88.5 50.3,83.7 57.7,78.7 64.7,73.5 71.2,68.1 77.4,62.4 83.1,56.6 88.5,50.5 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"106.3,54.4 114.4,59.6 122.2,64.5 129.7,69 137,73.2 144.2,76.8 151.2,80.1 158,82.9 164.7,85.2 171.2,87.1 177.5,88.5 174.4,101.3 167.4,99 160.5,96.2 153.5,93 146.6,89.2 139.6,85 132.6,80.2 125.6,75 118.7,69.2 111.8,62.9 105.1,55.8 \" />\n<polygon points=\"174.4,101.3 177.5,88.5 186.1,90.6 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"92.9,100.1 89.4,106.7 85.8,113.2 82.1,119.6 78.3,125.8 74.3,131.9 70.2,137.8 66,143.6 61.6,149.3 57.1,154.8 52.4,160.2 43.5,152.2 47.9,147.1 52.2,141.8 56.4,136.4 60.4,130.9 64.4,125.2 68.2,119.4 71.8,113.4 75.4,107.3 78.8,101.1 82.1,94.7 \" />\n<polygon points=\"81.7,95.6 92.9,100.1 82.7,93.6 \" />\n<polygon points=\"92.9,100.1 94.6,103.2 88.8,103.6 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"57.1,145.5 69.8,147 82.1,148.9 94.1,151.2 105.8,153.7 117.2,156.6 128.3,159.7 139.1,163 149.6,166.5 159.8,170.3 169.7,174.3 164.7,185.3 155.4,180.8 145.7,176.5 135.7,172.4 125.4,168.5 114.8,164.7 103.8,161 92.5,157.5 80.9,154.1 69,150.7 56.8,147.3 \" />\n<polygon points=\"169.7,174.3 172.8,177.7 172.7,182.3 169.3,185.4 164.7,185.3 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"141.7,122.1 136.7,134.2 130,145.1 121.7,154.8 111.7,163.2 100.3,170.3 87.4,176.1 73,180.7 57.1,184.1 39.8,186.2 21,186.9 20.9,185.1 39.3,182.4 56,178.9 71.1,174.5 84.4,169.1 96.1,162.9 106.1,155.8 114.4,147.9 121.2,139 126.4,129.3 130.2,118.6 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"15,118.4 185,118.4 185,122.4 15,122.4 \" />\n<polygon points=\"185,118.4 161,120.4 173,108.4 \" />\n</g>\n</svg>\n"
+  ]
+ },
+ {
+  "time": 8,
+  "kanji": "種",
+  "prev": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "next": [],
+  "svgs": [
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"76.6,28.6 72.5,30.6 68,32.5 63,34.4 57.6,36.3 51.6,38.1 45.2,39.8 38.3,41.5 31,43.1 23,44.6 14.6,45.8 14.1,44.1 22,40.9 29.4,38 36.4,35.3 42.8,32.6 48.7,30.1 54.1,27.6 59,25.2 63.3,22.8 67.1,20.6 70.3,18.4 \" />\n<polygon points=\"69.5,18.9 76.6,28.6 78,27.8 \" />\n<polygon points=\"78,27.8 78.1,31.2 72.4,28.8 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"12.6,74 81.5,74 81.5,78 12.6,78 \" />\n<polygon points=\"81.5,74 57.5,76 69.5,64 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"54.4,33 54.4,183 42.4,189 42.4,33 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"51.6,77 49.3,86.8 46.7,96.3 43.8,105.5 40.5,114.3 36.9,122.8 32.9,130.9 28.6,138.7 24,146.1 18.9,153 13.3,159.5 11.9,158.4 15.7,151 19.3,143.4 22.8,135.7 26,127.8 29,119.6 31.7,111.2 34.2,102.5 36.3,93.6 38.2,84.4 39.8,74.9 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"51.5,97.6 54.9,98.7 58.3,99.8 61.5,101.1 64.7,102.6 67.6,104.2 70.5,106.1 73.2,108.1 75.7,110.3 78.1,112.6 80.4,115.1 70.4,121.7 69.2,119.4 67.8,117 66.3,114.7 64.6,112.4 62.8,110.1 60.7,107.9 58.5,105.7 56.1,103.4 53.6,101.1 50.7,99.2 \" />\n<polygon points=\"80.4,115.1 81.2,119.6 78.7,123.5 74.2,124.3 70.4,121.7 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"166,27.1 159.1,29.2 151.9,31.1 144.5,32.8 136.9,34.4 129,35.7 120.9,36.9 112.5,37.9 103.8,38.7 94.9,39.1 85.7,39.2 85.5,37.4 94.4,35.4 103,33.4 111.4,31.4 119.4,29.5 127.2,27.4 134.7,25.3 141.9,23.1 148.9,20.8 155.5,18.4 161.9,15.9 \" />\n<polygon points=\"160.9,16.2 166,27.1 171.3,25.2 \" />\n<polygon points=\"171.3,25.2 171.5,28.3 164.9,25.4 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"77.1,52.5 185.8,52.5 185.8,56.5 77.1,56.5 \" />\n<polygon points=\"185.8,52.5 161.8,54.5 173.8,42.5 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"101.4,75.7 101.4,145.2 89.4,151.2 89.4,69.7 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"95.4,75.7 167.5,75.7 167.5,79.7 95.4,79.7 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"173.5,77.7 173.5,139.2 161.5,145.2 161.5,77.7 \" />\n<polygon points=\"161.5,75.7 167.5,70.7 178.5,79.7 173.5,83.7 161.5,77.7 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"95.4,103 167.5,103 167.5,107 95.4,107 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"95.4,129.2 167.5,129.2 167.5,133.2 95.4,133.2 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"137.5,29.3 137.5,180.7 125.5,180.7 125.5,29.3 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"85.6,152.5 177.3,152.5 177.3,156.5 85.6,156.5 \" />\n<polygon points=\"177.3,152.5 153.3,154.5 165.3,142.5 \" />\n</g>\n</svg>\n",
+   "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" viewBox=\"0 0 200 200\" width=\"200\" height=\"200\">\n<g fill=\"black\">\n<polygon points=\"75.1,176.7 187.8,176.7 187.8,180.7 75.1,180.7 \" />\n<polygon points=\"187.8,176.7 163.8,178.7 175.8,166.7 \" />\n</g>\n</svg>\n"
+  ]
+ }
+]
